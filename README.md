@@ -1,4 +1,5 @@
-RAG 기반 학교 공지 챗봇 (Korean)
+RAG 기반 학교 공지 챗봇
+
 프로젝트 개요
 
 본 프로젝트는 대학교 공지사항을 자동으로 수집·분석하여 사용자 질문에 정확한 답변을 제공하는 RAG(Retrieval-Augmented Generation) 기반 챗봇입니다.
